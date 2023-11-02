@@ -1,5 +1,5 @@
 <h1>GG-Tube</h1>
-<h3A Simple Database Design and Implementation using Oracle DBMS for a Video Platform Called GG-Tube as a Project for Database Systems Course at the university.></h3>
+<h3> Simple Database Design and Implementation using Oracle DBMS for a Video Platform Called GG-Tube as a Project for Database Systems Course at the university.</h3>
 <hr>
 <h2>E-R Diagram<h3>
 <img src="E-R Diagram.png" alt="E-R Diagram">
