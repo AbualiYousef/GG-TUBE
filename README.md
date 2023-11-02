@@ -1,5 +1,5 @@
 <h1>GG-TUBE</h1>
-E-R Diagram, Relational Schema, normalization, and implementation using Oracle database for videos platform as a project for the database course at the university.
+<h3A Simple Database Design and Implementation using Oracle DBMS for a Video Platform Called GG-Tube as a Project for Database Systems Course at the university.></h3>
 <h2>E-R Diagram<h3>
 <img src="E-R Diagram.png" alt="E-R Diagram">
 <h2>Normalization</h2>
